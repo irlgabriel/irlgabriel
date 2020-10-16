@@ -1,7 +1,7 @@
 ### Hi, I am Gabriel - aka [irlgabriel](https://irlgabriel.github.io/portfolio)
 
 ## I am an engineering student with an affinity for web development!
-- Currently working on a MERN reddit clone.
+- Currently working on a MERN Shopping App to get familiar with express, mongo and redux.
 - Getting familiar with MongoDB, Express.js, React.js, Node.js.
 - Looking for part-time/project-based job.
 - 2020 Goal: Building something that will actually help someone in their day to day life.
