@@ -1,11 +1,11 @@
 ### Hi, I am Gabriel - aka [irlgabriel](https://irlgabriel.github.io/portfolio)
 
-## I am an engineering student with an affinity for web development!
-- Currently working on a MERN Shopping App to get familiar with express, mongo and redux.
+## I am an engineering student with a knack for web development!
+- Currently honing my react and javascript skills.
 - Getting familiar with MongoDB, Express.js, React.js, Node.js.
-- Looking for part-time/project-based job.
+- Looking for full-time/part-time/project-based job.
 - 2020 Goal: Building something that will actually help someone in their day to day life.
-- Fun fact: I love working out and going sightseeing.
+- Random fact about me: I love working out and going sightseeing(but who doesnt?).
 
 ### Contact me: 
 [<img src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" width="40px;">](https://irlgabriel.github.io/portfolio)
