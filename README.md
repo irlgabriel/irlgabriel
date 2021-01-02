@@ -1,7 +1,7 @@
 ### Hi, I am [Gabriel](https://irlgabriel.github.io/portfolio)
 
 ## I am an mechanical engineering student with a knack for web development!
-- Currently working on a [reddit clone](https://github.com/irlgabriel/reddit-clone) [facebook clone](https://github.com/irlgabriel/odin-nodejs-foundations/tree/master/facebook) to better my react and node skills.
+- Currently working on this [reddit clone](https://github.com/irlgabriel/reddit-clone) and this [facebook clone](https://github.com/irlgabriel/odin-nodejs-foundations/tree/master/facebook) to better my react and node skills.
 - Getting familiar with MongoDB, Express.js, React.js, Node.js.
 - Looking for full-time/part-time/project-based job.
 - 2020 Goal: Building something that will actually help someone in their day to day life.
