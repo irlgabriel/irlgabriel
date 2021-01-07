@@ -1,11 +1,11 @@
 ### Hi, I am [Gabriel](https://irlgabriel.github.io/portfolio)
 
 ## I am an mechanical engineering student with a knack for web development!
-- Currently working on this [reddit clone](https://github.com/irlgabriel/reddit-clone) and this [facebook clone](https://github.com/irlgabriel/MERN-facebook) to better my react and node skills.
-- Getting familiar with MongoDB, Express.js, React.js, Node.js.
+- Currently working on this [reddit clone](https://github.com/irlgabriel/reddit-clone) and this [facebook clone](https://github.com/irlgabriel/MERN-facebook) to better my express and mongodb understanding.
+- Getting familiar with MongoDB, Express.js, Node.js.
 - Looking for full-time/part-time/project-based job.
-- 2020 Goal: Building something that will actually help someone in their day to day life.
-- Random fact about me: I love working out and going sightseeing(but who doesnt?).
+- 2021 Goal: Hmm, getting hired as a web developer?
+- Random fact about me: I absolutely love to work out.
 
 ### Contact me: 
 [<img src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" width="40px;">](https://irlgabriel.github.io/portfolio)
