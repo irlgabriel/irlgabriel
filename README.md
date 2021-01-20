@@ -1,6 +1,6 @@
 ### Hi, I am [Gabriel](https://irlgabriel.github.io/portfolio)
 
-## I am an mechanical engineering student with a knack for web development!
+## I am a mechanical engineering student with a knack for web development!
 - Currently working on this [reddit clone](https://github.com/irlgabriel/reddit-clone) and this [facebook clone](https://github.com/irlgabriel/MERN-facebook) to better my express and mongodb understanding.
 - Getting familiar with MongoDB, Express.js, Node.js.
 - Looking for full-time/part-time/project-based job.
