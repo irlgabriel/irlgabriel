@@ -1,10 +1,10 @@
 ### Hi, I am [Gabriel](https://irlgabriel.github.io/portfolio)
 
-## I am a mechanical engineering student with a knack for web development!
+## I am an engineering student with a knack for web development!
 - Currently working on this [reddit clone](https://github.com/irlgabriel/reddit-clone) and this [facebook clone](https://github.com/irlgabriel/MERN-facebook) to better my express and mongodb understanding.
-- Getting familiar with MongoDB, Express.js, Node.js.
-- Looking for full-time/part-time/project-based job.
-- 2021 Goal: Hmm, getting hired as a web developer?
+- Getting better at redux and typescript!
+- ~~Looking for full-time/part-time/project-based job.~~
+- 2021 Goal: Hmm, getting hired as a web developer? - DONE THIS! Working for [Sensidev](https://sensidev.net/) as a junior react developer!
 - Random fact about me: I absolutely love to work out.
 
 ### Contact me: 
