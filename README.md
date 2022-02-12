@@ -1,7 +1,7 @@
 ### Hi, I am [Gabriel](https://irlgabriel.github.io/portfolio)
 
 ## I am an engineering student with a knack for web development!
-- Check this [reddit clone](https://github.com/irlgabriel/reddit-clone) or this this [facebook clone](https://github.com/irlgabriel/MERN-facebook) that I've built to better my react skills.
+- Check [this facebook clone](https://github.com/irlgabriel/MERN-facebook) or [this reddit clone](https://github.com/irlgabriel/reddit-clone) that I've built to better my react skills
 - Getting better at redux and typescript!
 - Looking for ~~full-time~~/part-time/project-based job.
 - 2021 Goal: Hmm, getting hired as a web developer? - DONE THIS! Working for [Sensidev](https://sensidev.net/) as a junior react developer!
