@@ -6,13 +6,38 @@
 - 2021 Goal: Hmm, getting hired as a web developer? - DONE THIS! Working for [Sensidev](https://sensidev.net/) as a junior react developer!
 
 ### Contact me: 
-[<img src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" width="40px;">](https://irlgabriel.github.io/portfolio)
+[![ContactMe][LinkedIn]][LinkedIn-url]
 <br>
-[<img src="https://camo.githubusercontent.com/b65faae8871ebbdb99790f2644ea7f3c89800b0c/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f6e706d2f73696d706c652d69636f6e734076332f69636f6e732f6c696e6b6564696e2e737667" width="40px;">](https://www.linkedin.com/in/gabriel-radu-5023021b9/)
-<br>
-### Languages and Tools: 
-<img align="left" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" width="26px;">
-<img align="left" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" width="26px;">
-<img align="left" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" width="26px;">
-<img align="left" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" width="26px;">
-<img align="left" src="https://www.flaticon.com/svg/static/icons/svg/919/919842.svg" width="26px;">
+### Tools: 
+* [![Next][Next.js]][Next-url]
+* [![React][React.js]][React-url]
+* [![Redux][Redux.js]][Redux-url]
+* [![Typescript][Typescript]][Typescript-url]
+* [![Tailwind][Tailwind.com]][Tailwind-url]
+* [![ExpressJS][Express.com]][Express-url]
+* [![Node][Node.com]][Node-url]
+* [![Mongodb][Mongodb]][Mongodb-url]
+* [![AWS EC2][AWS-EC2]][AWS-url]
+* [![AWS S3][AWS-S3]][AWS-url]
+
+[LinkedIn]: https://img.shields.io/badge/Linked-In-000000?style=for-the-badge&logo=linkedin&logoColor=white
+[LinkedIn-url]: https://www.linkedin.com/in/gabriel-radu-5023021b9/
+[Next.js]: https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white
+[Next-url]: https://nextjs.org/
+[Mongodb]: https://img.shields.io/badge/mongodb-00ED64?style=for-the-badge&logo=mongodb&logoColor=white
+[Mongodb-url]: https://www.mongodb.com/
+[AWS-EC2]: https://img.shields.io/badge/AWS%20EC2-f8991d?style=for-the-badge&logo=amazon&logoColor=white
+[AWS-S3]: https://img.shields.io/badge/AWS%20S3-f8991d?style=for-the-badge&logo=amazon&logoColor=white
+[AWS-url]: https://aws.amazon.com/
+[React.js]: https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=for-the-badge
+[Redux-url]: https://redux.js.org/
+[Redux.js]: https://img.shields.io/badge/reduxjs-764abc?style=for-the-badge&logo=redux&logoColor=white
+[Typescript-url]: https://www.typescriptlang.org/
+[Typescript]: https://img.shields.io/badge/Typescript-3178c6?style=for-the-badge&logo=typescript&logoColor=white
+[React-url]: https://react.dev/
+[Tailwind.com]: https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white
+[Tailwind-url]: https://tailwindcss.com/
+[Express.com]: https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white
+[Express-url]: https://expressjs.com/
+[Node.com]: https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white
+[Node-url]: https://expressjs.com/
