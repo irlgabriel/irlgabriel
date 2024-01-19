@@ -14,6 +14,7 @@
 * [![Redux][Redux.js]][Redux-url]
 * [![Typescript][Typescript]][Typescript-url]
 * [![Tailwind][Tailwind.com]][Tailwind-url]
+* [![Docker][Docker]][Docker-url]
 * [![ExpressJS][Express.com]][Express-url]
 * [![Node][Node.com]][Node-url]
 * [![Mongodb][Mongodb]][Mongodb-url]
@@ -41,3 +42,5 @@
 [Express-url]: https://expressjs.com/
 [Node.com]: https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white
 [Node-url]: https://expressjs.com/
+[Docker]: https://img.shields.io/badge/Docker-1d63ed?style=for-the-badge&logo=docker&logoColor=white
+[Docker-url]: https://www.docker.com/
