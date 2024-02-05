@@ -1,9 +1,9 @@
-### Hi, I am [Gabriel](https://irlgabriel.github.io/portfolio)
+### [Gabriel](https://irlgabriel.github.io/portfolio)
 
 ## React developer
-- Check [this facebook clone](https://github.com/irlgabriel/MERN-facebook) or [this reddit clone](https://github.com/irlgabriel/reddit-clone) that I've built to better my react skills
-- Getting better at redux and typescript!
-- 2021 Goal: Hmm, getting hired as a web developer? - DONE THIS! Working for [Sensidev](https://sensidev.net/) as a junior react developer!
+- Check [this facebook clone](https://github.com/irlgabriel/MERN-facebook) or [this reddit clone](https://github.com/irlgabriel/reddit-clone) that I've built with MERN stack.
+- React developer @ [Sensidev](https://sensidev.net/)!
+- NestJS lover
 
 ### Contact me: 
 [![ContactMe][LinkedIn]][LinkedIn-url]
